@@ -4,6 +4,8 @@ The public front porch for **[DevCannabis](https://devcannabis.com)** — transp
 
 👉 **[Start a discussion →](../../discussions)** Questions, ideas, or want to add your state? Anyone with a GitHub account can post — no access grant needed.
 
+New here? Skim **[how this community works](CONTRIBUTING.md)** and the **[Code of Conduct](CODE_OF_CONDUCT.md)** — both short.
+
 ## How this works
 - **Here (public):** open discussion — ask anything, propose a state, share feedback. Low barrier on purpose.
 - **The data (public):** free to read at [devcannabis.com](https://devcannabis.com) — dashboards, the open normalization spec, and a public corrections log.
